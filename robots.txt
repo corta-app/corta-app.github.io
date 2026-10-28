@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corta-app.github.io/corta/sitemap.xml
